@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# That script listens on port 98 on localhost
+
+ip -4 addr show | awk '{print $2}' | cut -d/ -f1
