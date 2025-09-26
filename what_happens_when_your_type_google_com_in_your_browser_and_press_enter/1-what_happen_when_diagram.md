@@ -1,0 +1,1 @@
+I'll create a comprehensive diagram illustrating the flow of a request when typing "https://www.google.com" and pressing Enter. Here's the detailed schema:![diagram](./diagramme.webp)
